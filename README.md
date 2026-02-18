@@ -13,20 +13,18 @@ This project is intended for academic demonstration purposes.
 ## Project Structure
 
 ```
-
 sp301/
 │
-├── logs/          # Sample authentication logs
-├── output/        # Generated graph artifacts
-├── src/           # Source code
+├── logs/
+│   └── auth.log
+├── output/              (can be empty before run)
+├── src/
 │   ├── main.py
 │   ├── parser.py
 │   └── detector.py
-├── venv/          # Virtual environment (ignored in Git)
+├── .gitignore
 └── README.md
-
 ```
-
 ---
 
 ## Features
