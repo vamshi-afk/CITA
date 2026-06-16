@@ -1,4 +1,4 @@
-# NIDA — Network Intrusion Detection Analyzer
+# NIDA — Network Intrusion Detection Assistant
 
 ## Overview
 
