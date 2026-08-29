@@ -27,7 +27,6 @@ NIDA/
 │   ├── parser.py        ← parses network.log into event objects
 │   ├── detector.py      ← rule engine + scoring + suggestions
 │   └── main.py          ← entry point, CLI report, graph output
-├── Dockerfile
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -186,7 +185,6 @@ End of Report
 | Log parsing | `re`, `datetime` |
 | Behavior aggregation | `collections.defaultdict` |
 | Visualization | `matplotlib` |
-| Containerization | Docker |
 
 ---
 
